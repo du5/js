@@ -1,0 +1,8 @@
+# 屏蔽常见邪教网站
+DOMAIN-SUFFIX,dafahao.comm
+DOMAIN-SUFFIX,minghui.org
+DOMAIN-SUFFIX,dongtaiwang.comm
+DOMAIN-SUFFIX,epochtimes.comm
+DOMAIN-SUFFIX,ntdtv.comm
+DOMAIN-SUFFIX,falundafa.org
+DOMAIN-SUFFIX,wujieliulan.comm
